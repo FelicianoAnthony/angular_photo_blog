@@ -2,5 +2,5 @@
 
 Treehouse Angular basic tutorial 
 
-Form Validation
+![alt text](https://github.com/FelicianoAnthony/angular_photo_blog/blob/master/photoblogAngular.png)
 
